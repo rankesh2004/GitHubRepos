@@ -1,0 +1,23 @@
+.btn-card {
+  margin-left: 15px;
+  margin-right: 15px;
+  padding: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.language-btn {
+  background-color: transparent;
+  border: 0px;
+  font-weight: 800;
+  color: #1e293b;
+  padding: 20px;
+  cursor: pointer;
+}
+.display {
+  border: solid #0284c7 2px;
+  color: #0284c7;
+  border-radius: 20px;
+}
+.display1 {
+  color: #0284c7;
+}

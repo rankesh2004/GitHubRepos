@@ -1,0 +1,20 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.language-btn {
+  display: flex;
+  list-style-type: none;
+  padding: 0px;
+}
+.heading {
+  font-family: 'Lobster';
+}
+.language-card-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
